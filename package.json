@@ -9,7 +9,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/nodejitsu/node-http-proxy.git"
+    "url": "http://github.com/strongloop/http-proxy.git"
   },
   "keywords": [
     "reverse",
